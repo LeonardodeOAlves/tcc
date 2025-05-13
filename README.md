@@ -2,7 +2,7 @@
 Script utilizado no TCC do curso de Data Science e Analytics
 
 Primeira parte:
-  Análise descritiva
+	Análise descritiva
     Importação da base
     Transformação em série
     Elaboração dos gráficos
